@@ -1,0 +1,600 @@
+# Webproject.io-web
+Web Project
+<!DOCTYPE html>
+<title>Arex</title>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="main_container" id="home">
+	<div class="navbar">
+		<div class="logo">
+			<a href="#">Chat With Aris</a>
+		</div>
+		<div class="navbar_items">
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#about">about</a></li>
+				<li><a href="#podcast">podcast</a></li>
+        <li><a href="#myblog">my blog</a></li>
+				<li><a href="#contactus">contact</a></li>
+				<li><a href="#aristeam">aris team</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="banner_image">
+		<div class="banner_content">
+			<h1>One person can make a difference<br/>
+				<span>the voice</span>
+			</h1>
+			<p>You and I can make an impact to the World! And it starts from You.</p>
+      <div class="star-rating">
+  <input type="radio" id="5-stars" name="rating" value="5" />
+  <label for="5-stars" class="star">&#9733;</label>
+  <input type="radio" id="4-stars" name="rating" value="4" />
+  <label for="4-stars" class="star">&#9733;</label>
+  <input type="radio" id="3-stars" name="rating" value="3" />
+  <label for="3-stars" class="star">&#9733;</label>
+  <input type="radio" id="2-stars" name="rating" value="2" />
+  <label for="2-stars" class="star">&#9733;</label>
+  <input type="radio" id="1-star" name="rating" value="1" />
+  <label for="1-star" class="star">&#9733;</label>
+</div>
+		</div>
+	</div>
+
+	<div class="about" id="about">
+		<h1 class="title">About ARIS</h1>
+		<p>Hi, am Arex Isoria. Call me a geek or a weirdo because i am definetely one, I love tech, presenting and creating new stuffs or ideas. I could definetly pass for being a  technician, singer, rapper, and others, and thats a lot. I believe in the power of a voice, you and i can make an impact to the World!!..And it starts from You.</p>
+		<div class="btn"><a href="#">Learn More</a></div>
+	</div>
+  
+   <div class="myblog" id="myblog">
+		<h1 class="title">my blog</h1>
+      <a href="https://taiwoaj.wordpress.com/" target="_blank">
+<img src="https://imgur.com/K0wpMlk.jpg" alt="Taiwo blog" style="width:700px;height:302px;">
+</a>
+		   <p><a href="https://taiwoaj.wordpress.com/" target="_blank">Visit Blog from Here or Click Image.</a></p>
+
+	<div class="podcast" id="podcast">
+		<h1 class="title">PODCAST</h1>
+		<p>🔊Join(@Arex isoria and Kenisewa)/ listen as we talk about lifestyle, trends, topics... Keeping you entertained, inspired, as we learn and share ideas from everyone😄 Get catchy & fun episodes with ⏺️Aris/kenisewa. ⏺️Guests and friends. ⏺️ Interviews. 3 times a week (Monday, Wednesday, Saturday "evenings"). Let's have some fun. Talk more. 🅰️®ℹ️S. arexisoria@gmail.com</p>
+
+		<div class="diff_services">
+			<div class="diff_service_item">
+				<img src="https://imgur.com/EK55Cqu.jpg" alt="Service_image">
+				<h3>Chat with Aris</h3>
+        <p>Shoot your shot always.</p>
+			</div>
+			<div class="diff_service_item">
+        <iframe src="https://anchor.fm/chatwitharis/embed/episodes/Talk-about-Temperaments-ei8va6/a-a2vg84v" height="102px" width="300px" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://anchor.fm/chatwitharis/embed/episodes/Talk-with-Ayobami-eicf6u/a-a3046t9" height="102px" width="300px" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://anchor.fm/chatwitharis/embed/episodes/Dos-and-Donts-of-using-your-phones-ehtc20/a-a2te7lu" height="102px" width="300px" frameborder="0" scrolling="no"></iframe>
+				
+				<h3>Chat with Aris Podcasts Episodes</h3>
+         <a href="https://anchor.fm/chatwitharis" target="_blank">Visit Aris!</a>
+				<p>Get to listen to Catchy Episodes.</p>
+			</div>
+		
+		</div>
+	</div>
+     
+     <div class="diff_service_item">
+   	<img src="https://i.imgur.com/zOqXKNN.png" alt="Service_image">
+				<h3>Always Listening.</h3>
+        <p>Thanks for always listening.</p>
+   </div>
+
+
+	<div class="contactus" id="contactus">
+		<h1 class="title">Contact Us</h1>
+		<div class="form_wrapper">
+			<div class="form_input">
+				<input type="text" placeholder="Email">
+			</div>
+			<div class="form_input">
+				<input type="text" placeholder="Subject">
+			</div>
+			<div class="form_input">
+				<textarea placeholder="Message"></textarea>
+			</div>
+			<div class="btn">
+				<a href="#">Submit</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="ourteam" id="aristeam">
+		<h1 class="title">My Team</h1>
+		<div class="ourteam_wrapper">
+			<div class="team-1 team">
+				<div class="team_member">
+					<img src="https://imgur.com/3wYJ9KO.jpg" alt="Team_Image">
+          <h3>Arex Isoria</h3>
+          <p>Founder of Chat with Aris</p>
+				</div>
+				<div class="team_member">
+					<img src="https://imgur.com/tfRnEVQ.jpg" alt="Team_Image">
+          <h3>Kenisewa</h3>
+          <p>Co-Host</p>
+				</div>
+				<div class="team_member">
+					<img src="https://imgur.com/JoUt7O7.jpg" alt="Team_Image">
+           <h3>Dynamo</h3>
+          <p>Co-Host</p>
+				</div>
+			</div>
+			<div class="team-2 team">
+				<div class="team_member">
+					<img src="https://imgur.com/38JowwR.jpg" alt="Team_Image">
+           <h3>Image 1</h3>
+          <p>Active</p>
+				</div>
+				<div class="team_member">
+					<img src="https://imgur.com/cKbwjn0.jpg" alt="Team_Image">
+           <h3>Image 2</h3>
+          <p>Active</p>
+				</div>
+				<div class="team_member">
+					<img src="https://imgur.com/oS9sPTm.jpg" alt="Team_Image">
+           <h3>Image 3</h3>
+          <p>Active</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer">
+		<a href="#">@ AREX ISORIA.</a>
+    <div id="social">
+            <a class="facebookBtn smGlobalBtn" href="#" ></a>
+            <a class="twitterBtn smGlobalBtn" href="#" ></a>
+            <a class="googleplusBtn smGlobalBtn" href="#" ></a>
+            <a class="linkedinBtn smGlobalBtn" href="#" ></a>
+            <a class="pinterestBtn smGlobalBtn" href="#" ></a>
+            <a class="tumblrBtn smGlobalBtn" href="#" ></a>
+            <a class="rssBtn smGlobalBtn" href="#" ></a>
+        </div> 
+	</div>
+
+	<div class="arrow">
+		<a href="#home"><img src="https://i.imgur.com/wre6n0O.png" alt="up_arrow"></a>
+	</div>
+</div>
+  </body>
+  </html>
+  
+  <style>
+  @import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+	margin-bottom: 15px;
+	font-size: 14px;
+	line-height: 20px;
+	color: grey;
+}
+
+h1.title{
+	margin-bottom: 20px;
+	color: #444444;
+	font-family: 'Allura', cursive;
+	text-transform: uppercase;
+	font-size: 38px;
+	word-spacing: 25px;
+	letter-spacing: 5px;
+}
+
+.btn a{
+	display: block;
+	width: 180px;
+	height: 35px;
+	border: 2px solid #fb2274;
+	line-height: 35px;
+	margin: 25px auto 0;
+	color: #fb2274;
+	text-align: center;
+}
+
+
+
+
+.main_container{
+	position: relative;
+}
+
+/* Navigation bar */
+.navbar{
+	width: 100%;
+	height: 65px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: absolute;
+}
+
+.logo a{
+	font-family: 'Allura', cursive;
+	font-size: 32px;
+	color: #fb2274;
+}
+
+.navbar .navbar_items ul{
+	display: flex;
+}
+
+
+.navbar .navbar_items ul li{
+	text-transform: uppercase;
+	margin: 0 10px;
+}
+
+.navbar .navbar_items ul li a{
+	color: #fff;
+}
+
+.banner_image{
+	background: url("https://imgur.com/JDkH3vA.jpg") no-repeat top center;
+	background-size: cover;
+	width: 100%;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner_content{
+	text-align: center;
+	color: #fff;
+}
+
+.banner_content h1{
+	text-transform: uppercase;
+	line-height: 38px;
+	margin-bottom: 15px;
+}
+
+.banner_content h1 span{
+	color: #fb2274;
+}
+
+/* About us */
+.about,
+.services,
+.contactus,
+.ourteam{
+	padding: 5% 10%;
+	text-align: center;
+}
+
+/* Services */
+.services{
+	background: #f5f5f5;
+}
+
+.diff_services{
+	display: flex;
+	margin-top: 35px;
+	justify-content: space-between;
+}
+
+.diff_service_item{
+	width: 30%;
+}
+
+.diff_service_item img{
+	width: 100%;
+	margin-bottom: 25px;
+}
+
+.diff_service_item h3{
+	color: blue;
+	margin-bottom: 15px;
+}
+
+.diff_service_item iframe {
+  padding-right: 6px;
+  margin-left: -160px;
+   display: flex;
+  align-items: center;
+}
+
+/* Contact Us */
+.form_input{
+	margin-bottom: 15px;
+}
+
+.form_input input[type="text"]{
+	width: 250px;
+	padding: 12px 20px;
+	border: 1px solid #ccc;
+}
+
+.form_input textarea{
+	width: 250px;
+	padding: 12px 20px;
+	height: 80px;
+	resize: none;
+	border: 1px solid #ccc;
+}
+
+/* Our Team*/
+.ourteam{
+	background: #f5f5f5;
+}
+
+.ourteam_wrapper .team{
+	display: flex;
+	justify-content: space-between;
+}
+
+.ourteam_wrapper .team-1.team{
+	margin-bottom: 25px;
+}
+
+.ourteam_wrapper .team_member{
+	width: 30%;
+	height: auto;
+	cursor: pointer;
+	overflow: hidden;
+}
+
+.ourteam_wrapper .team_member img{
+	width: 100%;
+	display: block;
+	height: auto;
+	transition: all 0.5s ease;
+}
+
+.ourteam_wrapper .team_member:hover img{
+	transform: scale(1.1);
+}
+
+/* footer */
+.footer{
+	width: 100%;
+	text-align: center;
+	background: Black;
+	padding: 20px 0;
+}
+
+.footer a{
+	color: #fff;
+}
+
+@media (max-width: 720px){
+	.navbar{
+		height: auto;
+		flex-direction: column;
+	}
+
+	.navbar ul{
+		flex-direction: column;
+		text-align: center;
+	}
+
+	.logo{
+		margin-bottom: 25px;
+	}
+
+	.navbar ul li{
+		margin-bottom: 5px;
+	}
+
+	.banner_content{
+		margin-top: 35px;
+	}
+}
+
+/* arrow */
+.arrow{
+	position: fixed;
+	bottom: 25px;
+	right: 25px;
+	width: 40px;
+	height: 40px;
+	line-height: 50px;
+	text-align: center;
+	cursor: pointer;
+	background: blue;
+	border-radius: 50%;
+}
+
+.arrow img{
+	width: 20px;
+	height: 20px;
+	z-index: 1;
+}
+
+a {
+  color: Red;
+}
+a:link {
+  text-decoration: none;
+}
+
+ a:hover {
+  background-color: grey;
+}
+
+.star-rating {
+  border:solid 1px blue;
+  display:flex;
+  flex-direction: row-reverse;
+  font-size:1.5em;
+  justify-content:space-around;
+  padding: 0.2em;
+  text-align:center;
+  width:em;
+}
+
+.star-rating input {
+  display:none;
+}
+
+.star-rating label {
+  color:#ccc;
+  cursor:pointer;
+}
+
+.star-rating :checked ~ label {
+  color:#f90;
+}
+
+.star-rating label:hover,
+.star-rating label:hover ~ label {
+  color:#fc0;
+}
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+#social {
+  margin: 20px 10px;
+  text-align: center;
+}
+
+.smGlobalBtn { /* global button class */
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border:2px solid #ddd; /* add border to the buttons */
+    box-shadow: 0 3px 3px #999;
+    padding: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 2em;
+    border-radius: 27px;
+    -moz-border-radius:27px;
+    -webkit-border-radius:27px;
+}
+
+/* facebook button class*/
+.facebookBtn{
+    background: #4060A5;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+    border-color: #4060A5; /* change the border color on mouse hover */
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+      
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+      border-color: #00ABE3;
+}
+
+/* google plus button class*/
+.googleplusBtn{
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; /* add googleplus icon */
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+      border-color: #e64522;
+}
+
+/* linkedin button class*/
+.linkedinBtn{
+    background: #0094BC;
+}
+
+.linkedinBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0e1"; /* add linkedin icon */
+}
+
+.linkedinBtn:hover{
+      color: #0094BC;
+      background: #fff;
+      border-color: #0094BC;
+}
+
+/* pinterest button class*/
+.pinterestBtn{
+    background: #cb2027;
+}
+
+.pinterestBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d2"; /* add pinterest icon */
+}
+
+.pinterestBtn:hover{
+      color: #cb2027;
+      background: #fff;
+      border-color: #cb2027;
+}
+
+/* tumblr button class*/
+.tumblrBtn{
+    background: #3a5876;
+}
+
+.tumblrBtn:before{
+      font-family: "FontAwesome";
+      content: "\f173"; /* add tumblr icon */
+}
+
+.tumblrBtn:hover{
+      color: #3a5876;
+      background: #fff;
+      border-color: #3a5876;
+}
+
+/* rss button class*/
+.rssBtn{
+    background: #e88845;
+}
+
+.rssBtn:before{
+      font-family: "FontAwesome";
+      content: "\f09e"; /* add rss icon */
+}
+
+.rssBtn:hover{
+      color: #e88845;
+      background: #fff;
+      border-color: #e88845;
+}
+
+  </style>
